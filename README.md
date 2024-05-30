@@ -67,7 +67,7 @@ After training, the model is evaluated on the test dataset to determine its accu
 The model's predictions on the test dataset are visualized by plotting the first 25 test images along with the predicted digit labels. 
 This provides a visual confirmation of the model's performance.
 
-<img src="https://github.com/idraakk/Digit_Recognition_ANN/assets/73667258/ade26de9-6717-413d-9108-1e8208774e8c" alt="test_result" width="300"/>
+<img src="https://github.com/idraakk/Digit_Recognition_ANN/assets/73667258/ade26de9-6717-413d-9108-1e8208774e8c" alt="test_result" width="500"/>
 
 ## Results
 
